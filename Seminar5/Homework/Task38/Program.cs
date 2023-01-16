@@ -45,8 +45,8 @@ int MinNumber (int [] massive)
     return Min;
 }
 
-int Max = MaxNumber(massive);
-int Min = MinNumber(massive);
-int Diff = Max - Min;
+int MaxArray = MaxNumber(massive);
+int MinArray = MinNumber(massive);
+int Diff = MaxArray - MinArray;
 
 Console.WriteLine(Diff);
