@@ -5,25 +5,6 @@
 // 1, -7, 567, 89, 223-> 4
 
 
-// int M = int.Parse(Console.ReadLine()!);
-// Console.WriteLine($"Введие {M} чисел");
-
-// string stopWord = "stop";
-
-// int count = 0;
-// for (int i = 1; i <= M; i++)
-// {
-//     int number = Convert.ToInt32(Console.ReadLine());
-//     if (number > 0)
-//     {
-//         count++;
-//     }
-//     else if (Console.ReadLine() == stopWord)
-//     {
-        
-//     }
-//     return count;
-// }
 
 int number;
 int count = 0;
